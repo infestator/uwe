@@ -1,0 +1,10 @@
+* Create dependency management system
+    * Maven style
+    * Support for virtual dependencies
+    * Extensible lifecycle
+    * Manage binary and source artifacts
+        * Ability to choose binary or source
+* Create layout manager
+    * Tiled
+    * Restrict overlapping and modal windows
+* Use dependency management system for build and package management
